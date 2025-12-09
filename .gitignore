@@ -25,3 +25,5 @@ server.cfg
 server_default.cfg
 user_keys_default.vcfg
 user_keys_dev_default.vcfg
+gamestate_integration_yprac.cfg
+yprac/
